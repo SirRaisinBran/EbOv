@@ -1,0 +1,12 @@
+  
+{
+  "type": "global_loot_test:fortune_hydrargyrum",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "item": "ebulliento:hydrargyrum_pickaxe"
+      }
+    }
+  ]
+}
